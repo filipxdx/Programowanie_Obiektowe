@@ -1,7 +1,7 @@
 ﻿using System;
 
 class Zwierze
-{
+{ 
     protected string nazwa;
 
     public Zwierze(string nazwa)

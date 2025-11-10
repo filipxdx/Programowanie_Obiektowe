@@ -3,7 +3,7 @@
 public interface IModular
 {
     double Module();
-}
+} 
 
 public class ComplexNumber : ICloneable, IEquatable<ComplexNumber>, IModular
 {
